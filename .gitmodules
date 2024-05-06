@@ -1,0 +1,3 @@
+[submodule "nextjs-with-docker-env-version"]
+	path = nextjs-with-docker-env-version
+	url = git@github.com:PragmaticFrontEnd/blog-nextjs-with-docker-env-version.git
