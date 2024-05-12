@@ -1,2 +1,2 @@
 # PragmaticFrontEnd Blogs
-- (Nextjs multi env and release version control with docker and npm script)[./nextjs-with-makefile-docker-automation]
+- [Next.js multi env and release version control with docker and npm script](https://github.com/PragmaticFrontEnd/blog-nextjs-with-makefile-docker-automation/tree/418bb61afcc9b5601d4425a5dde73fee85bd6456)
