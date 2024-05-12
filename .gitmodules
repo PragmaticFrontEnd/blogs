@@ -1,3 +1,3 @@
-[submodule "nextjs-with-docker-env-version"]
-	path = nextjs-with-docker-env-version
-	url = git@github.com:PragmaticFrontEnd/blog-nextjs-with-docker-env-version.git
+[submodule "nextjs-with-makefile-docker-automation"]
+	path = nextjs-with-makefile-docker-automation
+	url = git@github.com:PragmaticFrontEnd/blog-nextjs-with-makefile-docker-automation.git
